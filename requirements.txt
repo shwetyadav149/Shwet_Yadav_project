@@ -1,5 +1,0 @@
-gradio
-google-generativeai
-requests
-python-docx
-PyPDF2
